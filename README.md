@@ -5,6 +5,7 @@ This is a project that I completed in DataCamp. Focus areas of the project are d
 <li>How many users pulled requests on a yearly basis?</li>
 <li>Can a scatter plot show use more information on the pull requests of the outliers?</li>
 </ol>
+
 ## Data Visualization Samples
 <img width="526" alt="pullreq_barchart" src="https://user-images.githubusercontent.com/101160575/176920203-9a313427-29af-483e-a111-b500ee43d059.png">
 <img width="329" alt="snip2" src="https://user-images.githubusercontent.com/101160575/179429392-543aaf19-dadb-4a6b-bb47-f90554d73afd.png">
